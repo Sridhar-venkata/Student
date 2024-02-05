@@ -1,0 +1,18 @@
+#Logging:
+#  level:
+#    root: TRACE
+#
+#  file:
+#    name: sri.log
+#    max-size: 1MB
+#
+#  pattern:
+#    console: "%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n"
+#
+#    file: "%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n"
+#
+#
+#
+#
+#
+#
